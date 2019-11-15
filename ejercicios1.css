@@ -1,0 +1,79 @@
+body{
+    margin: 50px;
+    background-color: white;
+}
+
+#titulo{
+    text-align: center;
+    padding:10px;
+    font-size: 40px;
+}
+
+.container-fluid{
+/* border: solid 10px rgb(91, 34, 197); */  
+padding: 20px;
+margin: 10px;
+display: flex;
+justify-content: left;
+}
+
+#entrenamiento{
+    /* border: solid 15px yellow; */
+    width: 70%; 
+}
+.bd-example{
+    width: 30%;
+    
+}
+
+#indice{
+    /* border: solid 15px rgb(53, 6, 53);  */
+    width: 30%;  
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#formas{
+    /* border: solid 15px pink; */
+    width: 100%; 
+    margin: 20px;
+    
+}
+
+#pedagogia{
+    /* border: solid 15px pink; */
+    width: 100%; 
+    margin: 15px;
+}
+
+#melodia{
+    /* border: solid 15px pink; */
+    width: 100%; 
+    margin: 15px;
+}
+
+#redes{
+    font-size: 25px;
+}
+
+#nombre{
+    font-size: 40px;
+    text-align: right;
+    padding: 5px;
+    color: rgba(109, 7, 7, 0.753);
+} 
+
+.video{
+    width: 100%;
+
+}
+
+.face{
+    font-size: 30px;
+    color: white;
+}
+.correo{
+        font-size: 30px;
+        color: white;
+}
