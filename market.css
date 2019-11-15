@@ -1,0 +1,16 @@
+.accordion{
+
+    width: 80%;
+    height: 200px;
+}
+
+.guitarras{
+    border: solid 1px blueviolet;
+    width: 100%;
+    height: 40px;
+}
+
+.guitar{
+
+    background-image: url(./assets/img/guitarras.jpg);
+}
