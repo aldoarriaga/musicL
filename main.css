@@ -1,0 +1,52 @@
+.container {
+     /* border: solid 1px red; */
+    }
+    
+    .seccionLogged {
+        /* border: solid 1px rgb(91, 2, 99); */
+        /* height: 500px; */
+}
+
+/* Sección con status de tus metas */
+    .metas {
+        /* border: solid 1px rgb(145, 255, 0); */
+}
+
+.progressBar {
+    height: 100px;
+    width: 100px;
+}
+
+.footnoteProgress {
+    font-size: 12px;
+    line-height: 8px;
+}
+
+/* Sección con sugerencias de próximos videos */
+
+.overflowProximos {
+    height: 230px;
+}
+
+.proximos {
+    /* border: solid 1px rgb(3, 127, 131); */
+}
+
+.videoThumbnail {
+    height: 72px;
+    width: 128;
+}
+
+.footnoteProximos {
+    line-height: 15px;
+}
+
+.allCards {
+    /* border: solid 1px brown; */
+    overflow-x: auto;
+    /* white-space: nowrap; */
+}
+
+.cardsImg {
+ min-height: 168px;
+}
