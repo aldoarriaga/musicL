@@ -17,6 +17,25 @@ display: flex;
 justify-content: left;
 }
 
+h1 {
+    font-family: 'Raleway';
+    font-weight: 900;
+    }
+
+p {
+        font-family: lato
+        }
+
+h1 {
+    font-family: 'Raleway';
+    font-weight: 500;
+    }
+    
+#navegador{
+    display: flex;
+    align-content: center;
+}
+
 #entrenamiento{
     /* border: solid 15px yellow; */
     width: 70%; 
@@ -55,13 +74,14 @@ justify-content: left;
 
 #redes{
     font-size: 25px;
+    color: white;
 }
 
 #nombre{
     font-size: 40px;
     text-align: right;
     padding: 5px;
-    color: rgba(109, 7, 7, 0.753);
+    color: rgb(235, 220, 13);
 } 
 
 .video{
@@ -69,11 +89,19 @@ justify-content: left;
 
 }
 
-.face{
-    font-size: 30px;
+.social{
+    font-family: 'Raleway';
+    font-weight: 200;
     color: white;
 }
 .correo{
-        font-size: 30px;
-        color: white;
+    font-family: 'Raleway';
+    font-weight: 200;
+    color: white;
+}
+
+#carouselExampleControls{
+    width: 80%; 
+    margin: 15px;
+    padding: 15px;
 }
